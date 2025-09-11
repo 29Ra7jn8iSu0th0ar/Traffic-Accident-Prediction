@@ -9,9 +9,9 @@ The goal is to provide insights into accident risks and help **city planners, tr
 ---
 
 ## 📊 Datasets Used
-- **US Accidents (2016–2023)** → [Kaggle](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents/data)  
-- **UK Road Accident Dataset** → [Kaggle](https://www.kaggle.com/datasets/devansodariya/road-accident-united-kingdom-uk-dataset)  
-- **Hazardous Driving Spots (Global)** → [OpenML](https://www.openml.org/d/43372)  
+- **US Accidents (2016–2023)** → [Kaggle](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents/data) 
+- **UK Road Accident Dataset** → [Kaggle](https://www.kaggle.com/datasets/devansodariya/road-accident-united-kingdom-uk-dataset)
+- **Hazardous Driving Spots (Global)** → [OpenML](https://www.openml.org/search?type=data&status=active&id=43372&sort=runs)
 
 ---
 
